@@ -18,4 +18,4 @@ git commit: confirme su contenido en etapas como una nueva instantánea de confi
 
 git push: Transmitir compromisos de la rama local a la rama del repositorio remoto
 
-git merge: fusionar el historial de la rama especificada con el actual.
+git merge: fusionar el historial de la rama especificada con el actual...
